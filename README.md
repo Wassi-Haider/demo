@@ -1,4 +1,4 @@
 # demo
 First Git Repository
 <br>
-Author --> Wassi Haider
+Author --> Wassi-Haider
